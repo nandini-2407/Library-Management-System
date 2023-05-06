@@ -26,3 +26,4 @@ SimPy module to simulate the JUIT LRC
 - pip install pyyaml
 
 # Report
+[Project-Report-LRC.docx](https://github.com/nandini-2407/Library-Management-System/files/11413452/Project-Report-LRC.docx)

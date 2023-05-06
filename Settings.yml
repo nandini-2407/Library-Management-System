@@ -1,0 +1,103 @@
+# Settings
+
+# Library Settings
+library:
+ name : 'Jaypee University of Information Technology, Solan LRC'
+ openHour : '09:00'
+ closeHour : '17:00'
+ membershipOptions:
+   - -1
+   - 0
+ book:
+  titles: 
+  - Mastering C++
+  - Let Us C 
+  - Galvin Operating System Concepts
+  - The Fundamentals of Python
+  - Probability and Statistics
+  - Discrete Mathematics
+  - Introduction to Algorithms
+  - Design and Analysis of Algorithms
+  - Rich Dad Poor Dad by Robert T. Kiyosaki
+  - A Primer For The Mathematics Of Financial Engineering
+  - The Kite Runner
+  - Atomic Habits by James Clear
+  - The Gifts of Imperfection by Brené Brown
+  - Mindset by Carol Dweck
+  - The Daily Stoic by Ryan Holiday
+  - Big Magic by Elizabeth Gilbert
+  - Mathematics for Machine Learning
+  - Python Machine Learning By Example
+  - Introduction to Algorithms by Thomas Cormen
+  - Introduction to Automata Theory, Languages and Computation by John Hopcroft
+  - Operating System Concepts by Silberschatz, Galvin and Gagne
+  - Computer Networks by Forouzan
+  - Introduction to Special Relativity by R. Resnick
+  - Fundamentals of Optics by D.R. Khanna and H.R. Gulati
+  - Introduction to Solid State Physics by Charls Kittel, Wiley, Delhi
+  - Higher Engineering Mathematics by B.S Grewal
+  - Advanced Engineering Mathematics by E.Kreyszig
+  - Engineering Mathematics by Babu Ram (Pearson)
+  - Organic Chemistry by Morrison and Boyd
+  - Inorganic Chemistry by J.D Lee
+  - Vector Mechanics by Beer and Johnston
+  - Engineering Mechanics by Merriam and Criage
+  - Engineering Mechanics by R.S Khurmi
+  - Textbook of Electrical Technology by B.L Theraja
+  - Basic Electrical Technology by Mittel and Mittal
+ 
+
+# Student Settings
+student:
+  studentName: 
+  - Ishita
+  - Nandini
+  - Satuti
+  - Ishant
+  - Palak
+  - Tushar
+  - Vanshi
+  - Shambhavi
+  - Ujjwal
+  - Prerna
+  - Priyal
+  - Tanisha
+  - Akshara
+  - Shivam
+  - Kusha
+  - Nilakshi
+  - Shubhi
+  - Ansh
+  - Ashika 
+  - Aayush
+  - Srishti
+  - Prakhar
+  - Satvika
+  - Pranjal
+  - Jasmeen
+  studentSurname:
+  - Gupta
+  - Saini
+  - Seth
+  - Thakur
+  - Bhardwaj
+  - Bhardwaj
+  - Goyal
+  - Singh
+  - Minhas
+  - Kewat
+  - Maheshwari
+  - Chaubey
+  - Gupta
+  - Thakur
+  - Sharma
+  - Sharma
+  - Sachan
+  - Mehrotra
+  - Minhas 
+  - Gupta
+  - Rana 
+  - Varshney
+  - Singh
+  - Bansal
+  - Kaur
